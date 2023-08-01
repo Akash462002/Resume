@@ -1,0 +1,110 @@
+body{
+    background-color: rgb(234, 227, 217);
+}
+
+.container{
+    display: block;
+    
+}
+.head_container{
+    border-bottom: 1px solid black;
+}
+.heading{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.sub_heading{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.sub_1{
+    display: block;
+    height: 100%;
+    width: 50%;
+    margin-left: 50px;
+}
+.sub_2{
+   
+    text-align: end;
+    height: 100%;
+    width: 50%;
+    margin-right: 50px;
+}
+.obj_heading{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+table,th,td{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+th,td{
+    width: 500px;
+    height: 50px;
+}
+.cer_heading{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+.skill_heading{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.projects{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.personal{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.declaration{
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.bottom_container{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.bottom_1{
+    display: block;
+    height: 100%;
+    width: 50%;
+    margin-left: 50px;
+}
+.bottom_2{
+    display: block;
+    height: 100%;
+    width: 50%;
+    margin-left: 50px;
+}
+.personal_container{
+    display: flex;
+    height: 100%;
+    width: 100%;
+
+}
+.person_1{
+    display: block;
+    height: 100%;
+    width: 50%;
+    margin-left: 50px;
+    margin-top: -10px;
+}
+.person_2{
+    display: block;
+    height: 100%;
+    width: 50%;
+    margin-left: 50px;
+    margin-top: -10px;
+}
